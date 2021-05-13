@@ -1,0 +1,7 @@
+D:\krizt\Documents\S-7\Programacion WEB\Ejercicios\Proyecto final\Proyecto_Rentauto\Proyecto_Rentauto\bin\Proyecto_Rentauto.dll.config
+D:\krizt\Documents\S-7\Programacion WEB\Ejercicios\Proyecto final\Proyecto_Rentauto\Proyecto_Rentauto\bin\Proyecto_Rentauto.dll
+D:\krizt\Documents\S-7\Programacion WEB\Ejercicios\Proyecto final\Proyecto_Rentauto\Proyecto_Rentauto\bin\Proyecto_Rentauto.pdb
+D:\krizt\Documents\S-7\Programacion WEB\Ejercicios\Proyecto final\Proyecto_Rentauto\Proyecto_Rentauto\obj\Debug\Proyecto_Rentauto.csprojAssemblyReference.cache
+D:\krizt\Documents\S-7\Programacion WEB\Ejercicios\Proyecto final\Proyecto_Rentauto\Proyecto_Rentauto\obj\Debug\Proyecto_Rentauto.csproj.CoreCompileInputs.cache
+D:\krizt\Documents\S-7\Programacion WEB\Ejercicios\Proyecto final\Proyecto_Rentauto\Proyecto_Rentauto\obj\Debug\Proyecto_Rentauto.dll
+D:\krizt\Documents\S-7\Programacion WEB\Ejercicios\Proyecto final\Proyecto_Rentauto\Proyecto_Rentauto\obj\Debug\Proyecto_Rentauto.pdb
