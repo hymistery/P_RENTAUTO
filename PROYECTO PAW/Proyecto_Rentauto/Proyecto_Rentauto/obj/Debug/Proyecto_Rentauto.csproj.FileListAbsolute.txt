@@ -5,3 +5,10 @@ D:\krizt\Documents\S-7\Programacion WEB\Ejercicios\Proyecto final\Proyecto_Renta
 D:\krizt\Documents\S-7\Programacion WEB\Ejercicios\Proyecto final\Proyecto_Rentauto\Proyecto_Rentauto\obj\Debug\Proyecto_Rentauto.csproj.CoreCompileInputs.cache
 D:\krizt\Documents\S-7\Programacion WEB\Ejercicios\Proyecto final\Proyecto_Rentauto\Proyecto_Rentauto\obj\Debug\Proyecto_Rentauto.dll
 D:\krizt\Documents\S-7\Programacion WEB\Ejercicios\Proyecto final\Proyecto_Rentauto\Proyecto_Rentauto\obj\Debug\Proyecto_Rentauto.pdb
+C:\Users\carlo\OneDrive\Documentos\GitHub\P_RENTAUTO\PROYECTO PAW\Proyecto_Rentauto\Proyecto_Rentauto\bin\Proyecto_Rentauto.dll.config
+C:\Users\carlo\OneDrive\Documentos\GitHub\P_RENTAUTO\PROYECTO PAW\Proyecto_Rentauto\Proyecto_Rentauto\bin\Proyecto_Rentauto.dll
+C:\Users\carlo\OneDrive\Documentos\GitHub\P_RENTAUTO\PROYECTO PAW\Proyecto_Rentauto\Proyecto_Rentauto\bin\Proyecto_Rentauto.pdb
+C:\Users\carlo\OneDrive\Documentos\GitHub\P_RENTAUTO\PROYECTO PAW\Proyecto_Rentauto\Proyecto_Rentauto\obj\Debug\Proyecto_Rentauto.csprojAssemblyReference.cache
+C:\Users\carlo\OneDrive\Documentos\GitHub\P_RENTAUTO\PROYECTO PAW\Proyecto_Rentauto\Proyecto_Rentauto\obj\Debug\Proyecto_Rentauto.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Documentos\GitHub\P_RENTAUTO\PROYECTO PAW\Proyecto_Rentauto\Proyecto_Rentauto\obj\Debug\Proyecto_Rentauto.dll
+C:\Users\carlo\OneDrive\Documentos\GitHub\P_RENTAUTO\PROYECTO PAW\Proyecto_Rentauto\Proyecto_Rentauto\obj\Debug\Proyecto_Rentauto.pdb
